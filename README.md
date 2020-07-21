@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on an ML Showcase website to showcase my ML Projects.
 - 🌱 I’m currently learning Flutter so my projects can be of help to more people.
-- 📫 LinkedIn - linkedin.com/in/sumanthvs
-- 📫 Twitter - twitter.com/_sumanth_vs
-- 👨🏾‍⚖️sumanth-vs.github.io
+- 📫 [LinkedIn](linkedin.com/in/sumanthvs)
+- 📫 [Twitter](twitter.com/_sumanth_vs)
+- 👨🏾‍⚖️[Portfolio](sumanth-vs.github.io)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
