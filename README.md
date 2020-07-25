@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter so my projects can be of help to more people.
 - 📫 [LinkedIn](linkedin.com/in/sumanthvs)
 - 📫 [Twitter](twitter.com/_sumanth_vs)
-- 👨🏾‍⚖️[Portfolio](https://www.sumanth-vs.github.io)
+- 👨🏾‍⚖️[Portfolio](https://sumanth-vs.github.io/)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
