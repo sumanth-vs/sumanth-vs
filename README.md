@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a flutter app to aid and explore student learning
 - 🌱 I’m currently learning Web Dev so my projects can be of help to more people.
-- 📫 [LinkedIn](https://www.linkedin.com/in/sumanthvs){:target="_blank"}
+- 📫 <a href="http://www.linkedin.com/in/sumanthvs/" target="_blank">LinkedIn</a>
 - 📫 [Twitter](https://www.twitter.com/_sumanth_vs)
 - 👨🏾‍⚖️[Portfolio](https://sumanth-vs.github.io/)
 <!--
