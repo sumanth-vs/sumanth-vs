@@ -4,8 +4,8 @@
 **sumanth-vs/sumanth-vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on an ML Showcase website to showcase my ML Projects.
-- 🌱 I’m currently learning Flutter so my projects can be of help to more people.
+- 🔭 I’m currently working on a flutter app to aid and explore student learning
+- 🌱 I’m currently learning Web Dev so my projects can be of help to more people.
 - 📫 [LinkedIn](linkedin.com/in/sumanthvs)
 - 📫 [Twitter](twitter.com/_sumanth_vs)
 - 👨🏾‍⚖️[Portfolio](https://sumanth-vs.github.io/)
