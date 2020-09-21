@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on a flutter app to aid and explore student learning
 - 🌱 I’m currently learning Web Dev so my projects can be of help to more people.
-- 📫 [LinkedIn](linkedin.com/in/sumanthvs)
-- 📫 [Twitter](twitter.com/_sumanth_vs)
+- 📫 [LinkedIn](https://www.linkedin.com/in/sumanthvs){:target="_blank"}
+- 📫 [Twitter](https://www.twitter.com/_sumanth_vs)
 - 👨🏾‍⚖️[Portfolio](https://sumanth-vs.github.io/)
 <!--
 - 😄 Pronouns: ...
